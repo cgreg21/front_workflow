@@ -1,0 +1,33 @@
+{
+  "name": "front_workflow",
+  "version": "1.0.0",
+  "description": "webpack front workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgreg21/front_workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgreg21/front_workflow/issues"
+  },
+  "homepage": "https://github.com/cgreg21/front_workflow#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "css-loader": "^0.28.1",
+    "html-loader": "^0.4.5",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
+    "node-sass": "^4.5.2",
+    "ora": "^1.2.0",
+    "postcss-loader": "^2.0.5",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.5.1"
+  }
+}
